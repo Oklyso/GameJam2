@@ -6,6 +6,6 @@
 - [X] Playermovement
 - [X] Win/Lose conditions
 - [X] Bad map design
-- [] Sprites, animations, aesthetic
-- [] more maps
-- [] lives / collectibles ? 
+- [ ] Sprites, animations, aesthetic
+- [ ] more maps
+- [ ] lives / collectibles ? 
