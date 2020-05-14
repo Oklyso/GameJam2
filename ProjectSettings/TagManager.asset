@@ -9,6 +9,13 @@ TagManager:
   - ground
   - loss
   - victory
+  - victory2
+  - platformTrigger
+  - platformTrigger2
+  - platformTrigger3
+  - gameFinish
+  - victory3
+  - victory4
   layers:
   - Default
   - TransparentFX
